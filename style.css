@@ -1,8 +1,12 @@
 body {
+    
     background: url(bM2WavU.webp);
     background-color: black;
     background-image: url(https://www.melhoresdestinos.com.br/wp-content/uploads/2020/09/milford-sound-nova-zelandia.jpg);  
+    background-size: cover;
+
 }
+
 .center {
     display: flex;
     text-align: center;
